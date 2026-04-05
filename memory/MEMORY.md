@@ -1,0 +1,2 @@
+- [Teaching style](feedback_teaching_style.md) — PhD-professor style teaching + write notes to Obsidian vault via /note during lessons
+- [User profile](user_profile.md) — No calculus background, learning math from scratch, pure Python, step-by-step collaborative building
